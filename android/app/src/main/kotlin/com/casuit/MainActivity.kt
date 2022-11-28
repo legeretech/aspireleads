@@ -1,0 +1,6 @@
+package com.aspireleads
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

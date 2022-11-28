@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "635288647804",
+    "project_id": "popular-a6f94",
+    "storage_bucket": "popular-a6f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635288647804:android:18328f6f0b28acfbf5f1f9",
+        "android_client_info": {
+          "package_name": "com.aspireleads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635288647804-g7v761kaklcbt8a92eqai7mrf5jm41vf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aspireleads",
+            "certificate_hash": "2c498f77a78174361e4527ee02c4cea1a554c2a9"
+          }
+        },
+        {
+          "client_id": "635288647804-vbnlumqjl0o62f43n0av8ilug20hijbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aspireleads",
+            "certificate_hash": "96b1f48d92a313d8f812a5303731c44d97d58934"
+          }
+        },
+        {
+          "client_id": "635288647804-dm0goa03188or3eh4pluop6j5n3ru7tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeJqTQgGAtqF0D0FsIp0eQ0Y0NRi03UP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635288647804-dm0goa03188or3eh4pluop6j5n3ru7tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
